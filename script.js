@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     );
 
     // Lista de nomes para o sorteio
-    const names = ["Vanessa", "Clara", "Duda", "Letícia"];
+    const names = ["Vanessa", "Clara", "Lays", "Letícia"];
 
     drawButton.addEventListener('click', () => {
         // Esconder outros elementos da container e mostrar o loader
